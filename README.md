@@ -11,4 +11,7 @@ VIP Wearables Technology Knee Brace
 4) Make sure that it states "commit to master" 
 5) Select "Commit Changes"
 
+# Setting up Arduino -> P5 Connection 
+- https://github.com/p5-serial/p5.serialport
+
 

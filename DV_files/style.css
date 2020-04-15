@@ -13,3 +13,16 @@ html{
 	color: #ffffff;
 	font-size: 16; 
 }
+
+.button_style {
+	background-color: white;
+	height: 35px;
+	width: 150px;
+	font-family: "Helvetica"; 
+	color: black;
+	text-align: center;
+	font-size: 14px;
+	line-height: 2.4;
+	vertical-align: middle;
+	border-radius: 12px;
+}

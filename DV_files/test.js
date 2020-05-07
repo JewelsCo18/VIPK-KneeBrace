@@ -115,4 +115,3 @@ function draw() {
 		bar_draw(); 
 	}
 }
-
